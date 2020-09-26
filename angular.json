@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sustainable-companies"
+    }
+  },
+  "defaultProject": "sustainable-companies",
+  "cli": {
+    "analytics": "dc3c5a36-3b1a-4efd-b206-426c6d266bf3"
+  }
 }
